@@ -48,7 +48,7 @@ table {
 html{
   background-color: black;
   /* background: #161623; */
-  overflow-y: hidden;
+  overflow-x: hidden;
   box-sizing: border-box;
 
 }
@@ -305,7 +305,7 @@ margin: 1em 2em;
 
 
 
-@media (max-width: 600px){
+@media (max-width: 500px){
   
   .intro h1{
     font-size: 2em;
