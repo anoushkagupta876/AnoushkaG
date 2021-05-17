@@ -48,7 +48,7 @@ table {
 html{
   background-color: black;
   /* background: #161623; */
-  overflow-y: hidden;
+  /* overflow-y: hidden; */
   box-sizing: border-box;
 
 }
