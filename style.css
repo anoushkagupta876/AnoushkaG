@@ -305,7 +305,7 @@ margin: 1em 2em;
 
 
 
-@media (max-width: 500px){
+@media (max-width: 600px){
   
   .intro h1{
     font-size: 2em;
@@ -338,7 +338,7 @@ margin: 1em 2em;
   
 }
 
-@media (min-width: 600px){
+@media (min-width: 500px){
   .container h1{
     /* background-color: yellowgreen; */
     font-size: 2.1em;
