@@ -338,7 +338,7 @@ margin: 1em 2em;
   
 }
 
-@media (min-width: 500px){
+@media (min-width: 600px){
   .container h1{
     /* background-color: yellowgreen; */
     font-size: 2.1em;
