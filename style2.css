@@ -206,7 +206,7 @@ backdrop-filter: var(--card-blur);
 -webkit-backdrop-filter: var(--card-blur);
 border: var(--card-border);
 
-border-radius: .7em;
+border-radius: .6em;
 
 width: 60vw;
 max-width: 508px;
@@ -400,7 +400,7 @@ i{
 
 .software-container h1{
   font-family: 'Lexend Deca', cursive;
-  font-size: 2em;
+  font-size: 1.5em;
   letter-spacing: 4px;
   line-height: 2em;
   /* text-transform: uppercase; */
@@ -558,6 +558,9 @@ i{
     font-size: 1.9em;
   }
 
+  .software-container h1{
+    font-size: 2em;
+  }
 
 }
 
