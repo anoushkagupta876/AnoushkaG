@@ -52,7 +52,7 @@ table {
 html{
   background-color: rgba(0, 0, 0, 0.95);
   /* background: #161623; */
-  /* overflow-y: hidden; */
+  overflow-y: hidden;
   box-sizing: border-box;
 }
 
@@ -99,7 +99,7 @@ body {
 	left:0;
 	bottom: 0;
 	right: 0;
-  
+  /* ov erflow-y: hidden; */
 }
 
 .stars {
